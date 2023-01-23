@@ -275,6 +275,55 @@ html::-webkit-scrollbar {
   .card:nth-child(2) p {
     padding-top: 11%;
   }
+  .card:nth-child(3) {
+    background-image: url(writesonic.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(95, 95, 241);
+  }
+  .card:nth-child(3) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(4) {
+    background-image: url(Kaktus.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(224, 191, 85);
+  }
+  .card:nth-child(4) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(5) {
+    background-image: url(cramly.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(15, 18, 16);
+    color:white;
+    
+  }
+  .card:nth-child(5) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(6) {
+    background-image: url(chegg.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(224, 201, 85);
+  }
+  .card:nth-child(6) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(7) {
+    background-image: url(jenni.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(2, 2, 73);
+    color:white;
+  }
+  .card:nth-child(7) p {
+    padding-top: 11%;
+  }
+
   .card:nth-child(8) {
     background-image: url(Jasper.png);
     background-size: 100% 36%;
@@ -304,6 +353,85 @@ html::-webkit-scrollbar {
   .card:nth-child(10) p {
     padding-top: 15%;
   }
+  .card:nth-child(11) {
+    background-image: url(content.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+  }
+  .card:nth-child(11) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(12) {
+    background-image: url(content.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+  }
+  .card:nth-child(12) p {
+    padding-top: 15%;
+  } .card:nth-child(13) {
+    background-image: url(content.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color:lightblue;
+  }
+ 
+  .card:nth-child(13) p {
+    padding-top: 15%;
+  } .card:nth-child(14) {
+    background-image: url(copy.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(150, 219, 195);
+  }
+  .card:nth-child(14) p {
+    padding-top: 15%;
+  } .card:nth-child(15) {
+    background-image: url(hemingway.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(8, 9, 9);
+    color: white;
+  }
+  .card:nth-child(15) p {
+    padding-top: 15%;
+  } .card:nth-child(16) {
+    background-image: url(phrasee.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: orange;
+  }
+  .card:nth-child(16) p {
+    padding-top: 15%;
+  } .card:nth-child(17) {
+    background-image: url(quillbot.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(68, 121, 68);
+  }
+  .card:nth-child(17) p {
+    padding-top: 15%;
+  }
+} .card:nth-child(18) {
+  background-image: url(prowritingaid.png);
+  background-size: 100% 36%;
+  background-repeat: no-repeat;
+  background-color: rgb(150, 214, 219);
+}
+.card:nth-child(18) p {
+  padding-top: 15%;
+}
+ .card:nth-child(19) {
+  background-image: url(languagetool.png);
+  background-size: 100% 36%;
+  background-repeat: no-repeat;
+  background-color: rgb(72, 65, 197);
+  color:white
+}
+.card:nth-child(19) p {
+  padding-top: 15%;
+}
   .card button {
     position: absolute;
     bottom: 0;
@@ -316,7 +444,7 @@ html::-webkit-scrollbar {
     font-size: 15px;
     cursor: pointer;
   }
-}
+
 @media screen and (max-width: 800px) {
   body {
     font-family: Arial, sans-serif;
@@ -566,6 +694,65 @@ html::-webkit-scrollbar {
     padding-top: 11%;
   }
 
+  .card:nth-child(3) {
+    background-image: url(writesonic.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(95, 95, 241);
+  }
+  .card:nth-child(3) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(4) {
+    background-image: url(Kaktus.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(224, 191, 85);
+  }
+  .card:nth-child(4) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(5) {
+    background-image: url(cramly.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(15, 18, 16);
+    color:white;
+    
+  }
+  .card:nth-child(5) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(6) {
+    background-image: url(chegg.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(224, 201, 85);
+  }
+  .card:nth-child(6) p {
+    padding-top: 11%;
+  }
+  .card:nth-child(7) {
+    background-image: url(jenni.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(2, 2, 73);
+    color:white;
+  }
+  .card:nth-child(7) p {
+    padding-top: 11%;
+  }
+
+  .card:nth-child(8) {
+    background-image: url(Jasper.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(85, 224, 140);
+  }
+  .card:nth-child(8) p {
+    padding-top: 11%;
+  }
+
   .card:nth-child(9) {
     background-image: url(Front.png);
     background-size: 100% 36%;
@@ -585,6 +772,86 @@ html::-webkit-scrollbar {
   .card:nth-child(10) p {
     padding-top: 15%;
   }
+  .card:nth-child(11) {
+    background-image: url(content.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+  }
+  .card:nth-child(11) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(12) {
+    background-image: url(content.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+  }
+  .card:nth-child(12) p {
+    padding-top: 15%;
+  } .card:nth-child(13) {
+    background-image: url(content.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color:lightblue;
+  }
+ 
+  .card:nth-child(13) p {
+    padding-top: 15%;
+  } .card:nth-child(14) {
+    background-image: url(copy.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(150, 219, 195);
+  }
+  .card:nth-child(14) p {
+    padding-top: 15%;
+  } .card:nth-child(15) {
+    background-image: url(hemingway.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(8, 9, 9);
+    color: white;
+  }
+  .card:nth-child(15) p {
+    padding-top: 15%;
+  } .card:nth-child(16) {
+    background-image: url(phrasee.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: orange;
+  }
+  .card:nth-child(16) p {
+    padding-top: 15%;
+  } .card:nth-child(17) {
+    background-image: url(quillbot.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(68, 121, 68);
+  }
+  .card:nth-child(17) p {
+    padding-top: 15%;
+  }
+} .card:nth-child(18) {
+  background-image: url(prowritingaid.png);
+  background-size: 100% 36%;
+  background-repeat: no-repeat;
+  background-color: rgb(150, 214, 219);
+}
+.card:nth-child(18) p {
+  padding-top: 15%;
+}
+ .card:nth-child(19) {
+  background-image: url(languagetool.png);
+  background-size: 100% 36%;
+  background-repeat: no-repeat;
+  background-color: rgb(72, 65, 197);
+  color:white
+}
+.card:nth-child(19) p {
+  padding-top: 15%;
+}
+ 
   .card button {
     position: absolute;
     bottom: 0;
@@ -597,7 +864,7 @@ html::-webkit-scrollbar {
     font-size: 15px;
     cursor: pointer;
   }
-}
+
 
 /* Textarea*/
 #contact-title {
