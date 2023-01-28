@@ -470,6 +470,9 @@ html::-webkit-scrollbar {
       background-position: 0% 50%;
     }
   }
+  #code{
+    display: none;
+  }
 
   /*cookies.html */
   .cookies {
@@ -828,12 +831,13 @@ html::-webkit-scrollbar {
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(68, 121, 68);
+    color:white;
   }
   .card:nth-child(17) p {
     padding-top: 15%;
   }
 } .card:nth-child(18) {
-  background-image: url(prowritingaid.png);
+  background-image: url(prowritingaid.png); 
   background-size: 100% 36%;
   background-repeat: no-repeat;
   background-color: rgb(150, 214, 219);
@@ -849,6 +853,26 @@ html::-webkit-scrollbar {
   color:white
 }
 .card:nth-child(19) p {
+  padding-top: 15%;
+}
+.card:nth-child(20) {
+  background-image: url(spinbot.png);
+  background-size: 100% 36%;
+  background-repeat: no-repeat;
+  background-color: rgb(25, 19, 122);
+  color:white
+}
+.card:nth-child(20) p {
+  padding-top: 15%;
+}
+.card:nth-child(21) {
+  background-image: url(neuroflash.png);
+  background-size: 100% 36%;
+  background-repeat: no-repeat;
+  background-color: rgb(10, 10, 12);
+  color:white
+}
+.card:nth-child(21) p {
   padding-top: 15%;
 }
  
