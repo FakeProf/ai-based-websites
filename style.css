@@ -384,6 +384,9 @@ html::-webkit-scrollbar {
       background-position: 0% 50%;
     }
   }
+  #code{
+    display: none;
+  }
 
   /*cookies.html */
   .cookies {
