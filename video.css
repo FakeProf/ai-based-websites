@@ -448,6 +448,97 @@ html::-webkit-scrollbar {
   .card:nth-child(2) p {
     padding-top: 15%;
   }
+  .card:nth-child(3) {
+    background-image: url(rawshorts.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(3) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(4) {
+    background-image: url(designs.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(4) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(5) {
+    background-image: url(lumen5.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(5) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(6) {
+    background-image: url(gliacloud.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(6) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(7) {
+    background-image: url(vimeo.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(7) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(8) {
+    background-image: url(wisecut.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(8) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(9) {
+    background-image: url();
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(9) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(10) {
+    background-image: url(vedia.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(10) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(11) {
+    background-image: url(yarn.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(11) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(12) {
+    background-image: url();
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(12) p {
+    padding-top: 15%;
+  }
+
   .card button {
     position: absolute;
     bottom: 0;
@@ -485,6 +576,9 @@ html::-webkit-scrollbar {
     100% {
       background-position: 0% 50%;
     }
+  }
+  #code{
+    display: none;
   }
 
   /*cookies.html */
@@ -709,6 +803,96 @@ html::-webkit-scrollbar {
     background-color: rgb(179, 214, 244);
   }
   .card:nth-child(2) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(3) {
+    background-image: url(rawshorts.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(3) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(4) {
+    background-image: url(designs.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(4) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(5) {
+    background-image: url(lumen5.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(5) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(6) {
+    background-image: url(gliacloud.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(6) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(7) {
+    background-image: url(vimeo.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(7) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(8) {
+    background-image: url(wisecut.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(8) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(9) {
+    background-image: url();
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(9) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(10) {
+    background-image: url(vedia.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(10) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(11) {
+    background-image: url(yarn.jpg);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(11) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(12) {
+    background-image: url();
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(179, 214, 244);
+  }
+  .card:nth-child(12) p {
     padding-top: 15%;
   }
 
