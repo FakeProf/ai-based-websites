@@ -642,7 +642,7 @@ html::-webkit-scrollbar {
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
     width: 100%;
     z-index: 1000;
-    transform: translateY(-180%);
+   top: 0;
   }
 
   header a {
