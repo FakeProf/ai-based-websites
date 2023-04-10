@@ -261,7 +261,7 @@ html {
       padding-top: 15%;
     }
     .card:nth-child(3) {
-      background-image: url();
+      background-image: url(Kodezi.png);
       background-size: 100% 36%;
       background-repeat: no-repeat;
       background-color: rgb(150, 219, 195);
@@ -270,7 +270,7 @@ html {
       padding-top: 15%;
     }
     .card:nth-child(4) {
-      background-image: url();
+      background-image: url(codegpt.png);
       background-size: 100% 36%;
       background-repeat: no-repeat;
       background-color: rgb(179, 214, 244);
@@ -279,7 +279,7 @@ html {
       padding-top: 15%;
     }
     .card:nth-child(5) {
-      background-image: url();
+      background-image: url(gitlens.png);
       background-size: 100% 36%;
       background-repeat: no-repeat;
       background-color: rgb(248, 113, 174);
@@ -616,7 +616,7 @@ html {
       padding-top: 15%;
     }
     .card:nth-child(3) {
-      background-image: url(Runwayml.png);
+      background-image: url(Kodezi.png);
       background-size: 100% 36%;
       background-repeat: no-repeat;
       background-color: rgb(150, 219, 195);
@@ -625,7 +625,7 @@ html {
       padding-top: 15%;
     }
     .card:nth-child(4) {
-      background-image: url(Descript.jpg);
+      background-image: url(codegpt.png);
       background-size: 100% 36%;
       background-repeat: no-repeat;
       background-color: rgb(179, 214, 244);
@@ -634,7 +634,7 @@ html {
       padding-top: 15%;
     }
     .card:nth-child(5) {
-      background-image: url(Jasper.png);
+      background-image: url(gitlens.png);
       background-size: 100% 36%;
       background-repeat: no-repeat;
       background-color: rgb(248, 113, 174);
