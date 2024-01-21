@@ -236,6 +236,15 @@ html::-webkit-scrollbar {
     scale: 1.2;
   }
   .card:nth-child(1) {
+    background-image: url(merlin.png);
+    background-size: 100% 36%;
+    background-repeat: no-repeat;
+    background-color: rgb(186, 108, 161);
+  }
+  .card:nth-child(1) p {
+    padding-top: 15%;
+  }
+  .card:nth-child(2) {
     background-image: url(ChatGPT2.jpg);
     background-size: 100% 36%;
     background-repeat: no-repeat;
@@ -244,7 +253,7 @@ html::-webkit-scrollbar {
       to bottom rgb(110, 194, 148) rgb(59, 163, 126)
     );
   }
-  .card:nth-child(2) {
+  .card:nth-child(3) {
     background-image: url(Tome.jpg);
     background-size: 100% 36%;
     background-repeat: no-repeat;
@@ -254,97 +263,97 @@ html::-webkit-scrollbar {
       to bottom rgb(110, 194, 148) rgb(59, 163, 126)
     );
   }
-  .card:nth-child(2) p {
+  .card:nth-child(3) p {
     padding-top: 15%;
   }
-  .card:nth-child(3) {
+  .card:nth-child(4) {
     background-image: url(Runwayml.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(150, 219, 195);
   }
-  .card:nth-child(3) p {
+  .card:nth-child(4) p {
     padding-top: 15%;
   }
-  .card:nth-child(4) {
+  .card:nth-child(5) {
     background-image: url(Descript.jpg);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(179, 214, 244);
   }
-  .card:nth-child(4) p {
+  .card:nth-child(5) p {
     padding-top: 15%;
   }
-  .card:nth-child(5) {
+  .card:nth-child(6) {
     background-image: url(Jasper.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(248, 113, 174);
   }
-  .card:nth-child(5) p {
+  .card:nth-child(6) p {
     padding-top: 15%;
   }
-  .card:nth-child(6) {
+  .card:nth-child(7) {
     background-image: url(Textio.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(27, 233, 110);
   }
-  .card:nth-child(6) p {
+  .card:nth-child(7) p {
     padding-top: 15%;
   }
-  .card:nth-child(7) {
+  .card:nth-child(8) {
     background-image: url(Front.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(255, 83, 152);
   }
-  .card:nth-child(7) p {
+  .card:nth-child(8) p {
     padding-top: 15%;
   }
-  .card:nth-child(8) {
+  .card:nth-child(9) {
     background-image: url(monday.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(251, 198, 99);
   }
-  .card:nth-child(8) p {
+  .card:nth-child(9) p {
     padding-top: 15%;
   }
-  .card:nth-child(9) {
+  .card:nth-child(10) {
     background-image: url(Cognii.jpg);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(102, 183, 254);
   }
-  .card:nth-child(9) p {
+  .card:nth-child(10) p {
     padding-top: 15%;
   }
-  .card:nth-child(10) {
+  .card:nth-child(11) {
     background-image: url(infosum.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(179, 214, 244);
   }
-  .card:nth-child(10) p {
+  .card:nth-child(11) p {
     padding-top: 10%;
   }
-  .card:nth-child(11) {
+  .card:nth-child(12) {
     background-image: url(bizzabo.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(167, 170, 172);
   }
-  .card:nth-child(11) p {
+  .card:nth-child(12) p {
     padding-top: 15%;
   }
-  .card:nth-child(12) {
+  .card:nth-child(13) {
     background-image: url(grammarly.png);
     background-size: 100% 36%;
     background-repeat: no-repeat;
     background-color: rgb(150, 219, 195);
   }
-  .card:nth-child(12) p {
+  .card:nth-child(13) p {
     padding-top: 15%;
   }
   .card button {
